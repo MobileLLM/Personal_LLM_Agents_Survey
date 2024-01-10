@@ -36,6 +36,8 @@ Table of content:
 
 Task automation is a core capability of personal LLM agents, which determines how well the agent can respond to user commands and/or automatically execute tasks for the user.
 
+We focus on UI-based task automation agents in this list due to their popularity and close relevance to personal devices.
+
 #### UI-grounded Agents for Task Automation 
 
 LLM-based Approaches
@@ -100,11 +102,9 @@ This include the techniques to sense the user activity, mental status, environme
 
 - “Automated Mobile Sensing Strategies Generation for Human Behaviour Understanding” (Gao et al., 2023, p. 521) [arxiv](https://arxiv.org/abs/2311.05457)
 - “Cue-CoT: Chain-of-thought Prompting for Responding to In-depth Dialogue Questions with LLMs” (Wang et al., 2023, p. 1) [EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.806/)
-
 - “Exploring Large Language Models for Human Mobility Prediction under Public Events” (Liang et al., 2023, p. 1) [arxiv](https://arxiv.org/abs/2311.17351)
 - “Penetrative AI: Making LLMs Comprehend the Physical World” (Xu et al., 2023, p. 1) [arxiv](https://arxiv.org/abs/2310.09605)
 - “Evaluating Subjective Cognitive Appraisals of Emotions from Large Language Models” (Zhan et al., 2023, p. 1) [arxiv](https://arxiv.org/abs/2310.14389)
-
 - “PALR: Personalization Aware LLMs for Recommendation” (Yang et al., 2023, p. 1) [arxiv](https://arxiv.org/abs/2305.07622)
 - “Sentiment Analysis through LLM Negotiations” (Sun et al., 2023, p. 1) [arxiv](https://arxiv.org/abs/2311.01876)
 - “Bridging the Information Gap Between Domain-Specific Model and General LLM for Personalized Recommendation” (Zhang et al., 2023, p. 1) [arxiv](https://arxiv.org/abs/2311.03778)
@@ -118,8 +118,6 @@ This include the techniques to sense the user activity, mental status, environme
 - “Remote Breathing Rate Tracking in Stationary Position Using the Motion and Acoustic Sensors of Earables” (Ahmed et al., 2023, p. 1) [CHI'23](https://dl.acm.org/doi/abs/10.1145/3544548.3581265)
 - “SAMoSA: Sensing Activities with Motion and Subsampled Audio” (Mollyn et al., 2022, p. 1321) [IMWUT](https://dl.acm.org/doi/abs/10.1145/3550284)
 - “A Systematic Survey on Android API Usage for Data-Driven Analytics with Smartphones” (Lee et al., 2023, p. 1) [ACM Computing Surveys](https://dl.acm.org/doi/full/10.1145/3530814)
-
-
 
 - “A Multi-Sensor Approach to Automatically Recognize Breaks and Work Activities of Knowledge Workers in Academia” (Di Lascio et al., 2020, p. 781) [IMWUT](https://dl.acm.org/doi/abs/10.1145/3411821)
 - “Robust Inertial Motion Tracking through Deep Sensor Fusion across Smart Earbuds and Smartphone” (Gong et al., 2021, p. 621) [IMWUT](https://dl.acm.org/doi/abs/10.1145/3463517)
@@ -173,57 +171,37 @@ E.g. user activities, mental status, etc. -->
 - “Predictors of Life Satisfaction based on Daily Activities from Mobile Sensor Data” (Yürüten et al., 2014, p. 1) [CHI'14](https://dl.acm.org/doi/abs/10.1145/2556288.2557147)
 - “SmartGPA: How Smartphones Can Assess and Predict Academic Performance of College Students” (Wang et al., 2015, p. 1) [UbiComp'15](https://dl.acm.org/doi/abs/10.1145/2750858.2804251)
 - “Social Sensing: Assessing Social Functioning of Patients Living with Schizophrenia using Mobile Phone Sensing” (Wang et al., 2020, p. 1) [CHI'20](https://dl.acm.org/doi/abs/10.1145/3313831.3376855)
-
 - “SmokingOpp: Detecting the Smoking ‘Opportunity’ Context Using Mobile Sensors” (Chatterjee et al., 2020, p. 41) [IMWUT](https://dl.acm.org/doi/abs/10.1145/3380987)
 
 
 ### Memorization
-
 
 Memorization is about the ability of Personal LLM Agents to maintain information about the user, so that the agents can provide more customized services and evolve themselves according to user preferences.
 
 #### Memory Obtaining
 
 - “LifeLogging: Personal Big Data”  [Foundations and Trends in information retrieval](https://www.nowpublishers.com/article/Details/INR-033)
-
 - “Vision-based human activity recognition: a survey”  [Multimedia Tools and Applications](https://link.springer.com/content/pdf/10.1007/s11042-020-09004-3.pdf)
- 
 - “Predicting personality from patterns of behavior collected with smartphones”  [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/epdf/10.1073/pnas.1920484117)
-
-
 - “Facial Emotion Detection Using Deep Learning”  [2020 international conference for emerging technology (INCET)](https://www.researchgate.net/profile/Akriti-Jaiswal-5/publication/343414057_Facial_Emotion_Detection_Using_Deep_Learning/links/64e6fe3e0acf2e2b520d943b/Facial-Emotion-Detection-Using-Deep-Learning.pdf)
- 
 - “Emotion detection of textual data: An interdisciplinary survey”  [2021 IEEE World AI IoT Congress](https://www.researchgate.net/profile/Samira-Zad/publication/352580215_Emotion_Detection_of_Textual_Data_An_Interdisciplinary_Survey/links/60dbcb3e458515d6fbeab256/Emotion-Detection-of-Textual-Data-An-Interdisciplinary-Survey.pdf)
 
 #### Memory Management
 - “Privacystreams: Enabling transparency in personal data processing for mobile apps”  [IMWUT](https://dl.acm.org/doi/pdf/10.1145/3130941)
-
 - “Tree of Thoughts: Deliberate Problem Solving with Large Language Models”  [arxiv](https://arxiv.org/pdf/2305.10601.pdf)
- 
 - “Chain-of-Thought Prompting Elicits Reasoning in Large Language Models”  [Advances in Neural Information Processing Systems](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)
- 
 - “ReAct: Synergizing Reasoning and Acting in Language Models”  [arxiv](https://arxiv.org/pdf/2210.03629.pdf)
- 
 - “Generative Agents: Interactive Simulacra of Human Behavior”  [Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology](https://dl.acm.org/doi/pdf/10.1145/3586183.3606763)
- 
 - “Show Your Work: Scratchpads for Intermediate Computation with Language Models”  [arxiv](https://arxiv.org/pdf/2112.00114.pdf)
-
 - “Cognitive Architectures for Language Agents”  [arxiv](https://arxiv.org/pdf/2309.02427.pdf)
 
 #### Agent Self-evolution
 
 - “DreamCoder: growing generalizable, interpretable knowledge with wake–sleep Bayesian program learning”  [Proceedings of the 42nd acm sigplan international conference on programming language design and implementation](https://dl.acm.org/doi/pdf/10.1145/3453483.3454080)
-
 - “Voyager: An Open-Ended Embodied Agent with Large Language Models”  [arxiv](https://arxiv.org/pdf/2305.16291.pdf)
- 
 - “Language models as zero-shot planners: Extracting actionable knowledge for embodied agents”  [International Conference on Machine Learning](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)
- 
 - “Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance”  [arxiv](https://arxiv.org/pdf/2310.10021.pdf)
-
 - “FireAct: Toward Language Agent Fine-tuning”  [arxiv](https://arxiv.org/pdf/2310.05915.pdf)
- 
-
-
                            
 ## Efficiency of LLM Agents
 
