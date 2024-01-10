@@ -6,7 +6,7 @@ This repo maintains a curated list of papers related to Personal LLM Agents. For
 >
 > Yuanchun Li, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu
 >
-> [[arxiv]](https://arxiv.org/)  [[pdf]](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/blob/main/personal_llm_agents_main.pdf)  [[cite]](#citation)  [[discuss]](https://discord.gg/ystRhMbk)
+> [[arxiv]](https://arxiv.org/)  [[pdf]](https://yuanchun-li.github.io/static/files/personal_llm_agents.pdf)  [[cite]](#citation)  [[discuss]](https://discord.gg/ystRhMbk)
 
 **Personal LLM Agent** is defined as a special type of LLM-based agents that are deeply integrated with personal data, personal devices, and personal services.
 The main purpose of personal LLM agents is to assist end-users and augment their abilities, helping them to focus more and do better on interesting and important affairs.
