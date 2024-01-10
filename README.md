@@ -1,6 +1,12 @@
 # Personal LLM Agents - Survey
 
-This document contains a curated list of papers related to Personal LLM Agents.
+> [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/)
+>
+> Yuanchun Li, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu
+>
+> [[arxiv]](https://arxiv.org/)  [[pdf]](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/blob/main/personal_llm_agents_main.pdf)  [[cite]](#citation)  [[discuss]](https://discord.gg/ystRhMbk)
+
+This repo maintains a curated list of papers related to Personal LLM Agents.
 
 **Personal LLM Agent** is defined as a special type of LLM-based agents that are deeply integrated with personal data, personal devices, and personal services.
 The main purpose of personal LLM agents is to assist end-users and augment their abilities, helping them to focus more and do better on interesting and important affairs.
@@ -337,3 +343,17 @@ Summarization. [EMNLP, 2023] [[paper](https://aclanthology.org/2022.emnlp-main.3
 - Overthinking the Truth: Understanding how Language Models Process False Demonstrations. [arXiv, 2023] [[paper](https://arxiv.org/abs/2307.09476.pdf)]
 - Inference-Time Intervention: Eliciting Truthful Answers from a Language Model. [NeurIPS, 2023] [[paper](https://arxiv.org/abs/2306.03341.pdf)]
 
+# Acknowledgment
+
+We sincerely thank the valuable feedback from many domain experts including Xiaobo Peng (Autohome), Ligeng Chen (Honor Device), Miao Wei, Pengpeng He (Huawei), Hansheng Hong, Wenjun Chen, Zhiyao Yang (Oppo), Xuesheng Qi (vivo), Liang Tao, Lishun Sun, Shuang Dong (Xiaomi), and the anonymous others.
+
+# Citation
+
+TBD
+
+
+
+
+# Citation
+
+TBD
