@@ -8,7 +8,8 @@ This repo maintains a curated list of papers related to Personal LLM Agents. For
 >
 > [[arxiv]](https://arxiv.org/)  [[pdf]](https://yuanchun-li.github.io/static/files/personal_llm_agents.pdf)  [[cite]](#citation)  [[discuss]](https://discord.gg/ystRhMbk)
 
-**Personal LLM Agent** is defined as a special type of LLM-based agents that are deeply integrated with personal data, personal devices, and personal services.
+**Personal LLM Agents** are defined as a special type of LLM-based agents that are deeply integrated with personal data, personal devices, and personal services.
+They are perferably deployed to resource-constrained mobile/edge devices and/or powered by lightweight AI models.
 The main purpose of personal LLM agents is to assist end-users and augment their abilities, helping them to focus more and do better on interesting and important affairs.
 
 This paper list covers several main aspects of Personal LLM Agents, including the capabilities, efficiency and security. 
