@@ -3,7 +3,7 @@
 This document contains a curated list of papers related to Personal LLM Agents.
 
 **Personal LLM Agent** is defined as a special type of LLM-based agents that are deeply integrated with personal data, personal devices, and personal services.
-The main purpose of personal LLM agents is to assist end-users, helping them to reduce repetitive and cumbersome work and focus more on interesting and important affairs.
+The main purpose of personal LLM agents is to assist end-users and augment their abilities, helping them to focus more and do better on interesting and important affairs.
 
 This paper list covers several main aspects of Personal LLM Agents, including the capabilities, efficiency and security. 
 Table of content:
