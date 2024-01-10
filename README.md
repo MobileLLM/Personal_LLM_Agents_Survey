@@ -1,6 +1,6 @@
 # Personal LLM Agents - Survey
 
-This repo maintains a curated list of papers related to Personal LLM Agents. For more details, please refer to our paper:
+This repo maintains a curated list of papers related to Personal LLM Agents. For more details, please refer to our paper or join our discussion group:
 
 > [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/)
 >
