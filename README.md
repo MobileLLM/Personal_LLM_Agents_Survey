@@ -6,7 +6,7 @@ This repo maintains a curated list of papers related to Personal LLM Agents. For
 >
 > Yuanchun Li, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu
 >
-> [[arxiv]](https://arxiv.org/)  [[pdf]](https://yuanchun-li.github.io/static/files/personal_llm_agents.pdf)  [[cite]](#citation)  [[discuss (zulip)]](https://mobilellm.zulipchat.com/join/md3qfwhmvko4yt4fu3cendve/)
+> [[arxiv]](https://arxiv.org/abs/2401.05459)  [[pdf]](https://yuanchun-li.github.io/static/files/personal_llm_agents.pdf)  [[cite]](#citation)  [[discuss (zulip)]](https://mobilellm.zulipchat.com/join/md3qfwhmvko4yt4fu3cendve/)
 
 **Personal LLM Agents** are defined as a special type of LLM-based agents that are deeply integrated with personal data, personal devices, and personal services.
 They are perferably deployed to resource-constrained mobile/edge devices and/or powered by lightweight AI models.
@@ -350,5 +350,14 @@ We sincerely thank the valuable feedback from many domain experts including Xiao
 
 # Citation
 
-TBD
+```
+@misc{li2024personal,
+      title={Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security}, 
+      author={Yuanchun Li and Hao Wen and Weijun Wang and Xiangyu Li and Yizhen Yuan and Guohong Liu and Jiacheng Liu and Wenxing Xu and Xiang Wang and Yi Sun and Rui Kong and Yile Wang and Hanfei Geng and Jian Luan and Xuefeng Jin and Zilong Ye and Guanjing Xiong and Fan Zhang and Xiang Li and Mengwei Xu and Zhijun Li and Peng Li and Yang Liu and Ya-Qin Zhang and Yunxin Liu},
+      year={2024},
+      eprint={2401.05459},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}
+```
 
