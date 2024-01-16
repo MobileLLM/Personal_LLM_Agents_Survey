@@ -351,13 +351,11 @@ We sincerely thank the valuable feedback from many domain experts including Xiao
 # Citation
 
 ```
-@misc{li2024personal_llm_agents,
+@article{li2024personal_llm_agents,
       title={Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security}, 
       author={Yuanchun Li and Hao Wen and Weijun Wang and Xiangyu Li and Yizhen Yuan and Guohong Liu and Jiacheng Liu and Wenxing Xu and Xiang Wang and Yi Sun and Rui Kong and Yile Wang and Hanfei Geng and Jian Luan and Xuefeng Jin and Zilong Ye and Guanjing Xiong and Fan Zhang and Xiang Li and Mengwei Xu and Zhijun Li and Peng Li and Yang Liu and Ya-Qin Zhang and Yunxin Liu},
       year={2024},
-      eprint={2401.05459},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC}
+      journal={arXiv preprint arXiv:2401.05459}
 }
 ```
 
