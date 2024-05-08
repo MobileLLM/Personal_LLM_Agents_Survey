@@ -104,6 +104,12 @@ Traditional Approaches
 - AndroidEnv: A Reinforcement Learning Platform for Android [[paper](https://arxiv.org/abs/2105.13231)][[code](https://github.com/google-deepmind/android_env)]
 - Mobile-Env: An Evaluation Platform and Benchmark for Interactive Agents in LLM Era. [[paper](https://arxiv.org/abs/2305.08144)][[code](https://github.com/X-LANCE/Mobile-Env)]
 - WebArena: A Realistic Web Environment for Building Autonomous Agents. [[paper](https://arxiv.org/abs/2307.13854)][[code](https://github.com/web-arena-x/webarena)]
+- OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web. [[paper](https://arxiv.org/abs/2402.17553)][[code](https://huggingface.co/datasets/Writer/omniact)]
+- AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent [[paper](https://arxiv.org/abs/2404.03648)][[code](https://github.com/THUDM/AutoWebGLM)]
+- VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding? [[paper](https://arxiv.org/abs/2404.05955)][[code](https://github.com/VisualWebBench/VisualWebBench)]
+- ScreenAgent: A Vision Language Model-driven Computer Control Agent [[paper](https://arxiv.org/abs/2402.07945)][[code](https://github.com/niuzaisheng/ScreenAgent)]
+- AgentStudio: A Toolkit for Building General Virtual Agents [[paper](https://arxiv.org/abs/2403.17918)][[code](https://github.com/SkyworkAI/agent-studio)]
+- OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments [[paper](https://arxiv.org/abs/2404.07972)][[code](https://github.com/xlang-ai/OSWorld)]
 
 
 ### Sensing
