@@ -55,7 +55,7 @@ LLM-based Approaches
 - DroidBot-GPT: GPT-powered UI Automation for Android. [[arxiv](https://arxiv.org/abs/2304.07061)] [[code](https://github.com/MobileLLM/DroidBot-GPT)]
 - Responsible Task Automation: Empowering Large Language Models as Responsible Task Automators.[[paper](https://arxiv.org/abs/2306.01242)]
 - Mind2Web: Towards a Generalist Agent for the Web. arxiv 2023 [[paper](https://arxiv.org/abs/2306.06070)][[code](https://github.com/OSU-NLP-Group/Mind2Web)][[code](https://github.com/google-research-datasets/uibert)]
-- (AutoDroid) Empowering LLM to use Smartphone for Intelligent Task Automation. [[paper](https://arxiv.org/abs/2308.15272)] [[code](https://github.com/MobileLLM/AutoDroid)]
+- AutoDroid: LLM-powered Task Automation in Android. [[paper](https://arxiv.org/abs/2308.15272)] [[code](https://github.com/MobileLLM/AutoDroid)]
 - You Only Look at Screens: Multimodal Chain-of-Action Agents. ArXiv Preprint [[paper](https://arxiv.org/abs/2309.11436)] [[code](https://github.com/TouristShaun/Auto-UI/tree/main)]
 - AXNav: Replaying Accessibility Tests from Natural Language. [[paper](https://arxiv.org/abs/2310.02424)]
 - Automatic Macro Mining from Interaction Traces at Scale. [[paper](https://arxiv.org/abs/2310.07023)]
@@ -65,7 +65,13 @@ LLM-based Approaches
 - UGIF: UI Grounded Instruction Following. [[paper](https://arxiv.org/abs/2211.07615)]
 - Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation. [[paper](https://arxiv.org/abs/2312.03003)][[code]()]
 - CogAgent: A Visual Language Model for GUI Agents. [[paper](https://arxiv.org/abs/2312.08914)][[code](https://github.com/THUDM/CogAgent/tree/main)]
+- From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces [[paper](https://arxiv.org/abs/2312.10170)][[code](https://github.com/google-deepmind/pix2act)]
 - AppAgent: Multimodal Agents as Smartphone Users. [[paper](https://arxiv.org/abs/2312.13771)][[code](https://github.com/mnotgod96/AppAgent)]
+- GPT-4V(ision) is a Generalist Web Agent, if Grounded [[paper](https://arxiv.org/abs/2401.01614)][[code](https://github.com/OSU-NLP-Group/SeeAct)]
+- SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents [[paper](https://arxiv.org/abs/2401.10935)][[code](https://github.com/njucckevin/SeeClick)]
+- Octopus v2: On-device language model for super agent [[paper](https://arxiv.org/abs/2404.01744)][[code](https://huggingface.co/NexaAIDev/Octopus-v2)]
+- Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs [[paper](https://arxiv.org/abs/2404.05719)]
+- Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent [[paper](https://arxiv.org/html/2404.11459v1)]
 
 Traditional Approaches
 
