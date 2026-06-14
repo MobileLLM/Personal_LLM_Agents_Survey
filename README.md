@@ -221,6 +221,7 @@ Memorization is about the ability of Personal LLM Agents to maintain information
 - “Language models as zero-shot planners: Extracting actionable knowledge for embodied agents”  [International Conference on Machine Learning](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)
 - “Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance”  [arxiv](https://arxiv.org/pdf/2310.10021.pdf)
 - “FireAct: Toward Language Agent Fine-tuning”  [arxiv](https://arxiv.org/pdf/2310.05915.pdf)
+- “Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations”  [EMNLP 2025](https://arxiv.org/abs/2509.16457)
                            
 ## Efficiency of LLM Agents
 
