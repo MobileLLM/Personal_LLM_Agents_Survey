@@ -1,12 +1,21 @@
 # Personal LLM Agents - Survey
 
-This repo maintains a curated list of papers related to Personal LLM Agents. For more details, please refer to our paper or join our discussion group:
+<p align="center">
+  <a href="https://github.com/MobileLLM/lab-contact"><img src="https://img.shields.io/badge/WeChat-Group-C5EAB4?style=flat&logo=wechat&logoColor=white" alt="WeChat"></a>
+  <a href="https://discord.gg/3bhPrAarW"><img src="https://img.shields.io/badge/Discord-Group-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
+This repo maintains a curated list of papers related to Personal LLM Agents. For more details, please refer to our paper or join our discussion group.
 
 > [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://github.com/MobileLLM/Personal_LLM_Agents_Survey/)
 >
 > Yuanchun Li, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiacheng Liu, Wenxing Xu, Xiang Wang, Yi Sun, Rui Kong, Yile Wang, Hanfei Geng, Jian Luan, Xuefeng Jin, Zilong Ye, Guanjing Xiong, Fan Zhang, Xiang Li, Mengwei Xu, Zhijun Li, Peng Li, Yang Liu, Ya-Qin Zhang, Yunxin Liu
 >
-> [[arxiv]](https://arxiv.org/abs/2401.05459)  [[pdf]](https://yuanchun-li.github.io/static/files/personal_llm_agents.pdf)  [[cite]](#citation)  [[discuss (zulip)]](https://mobilellm.zulipchat.com/join/b2f35obsz5jafttpqs4sixwa/)
+> [[arxiv]](https://arxiv.org/abs/2401.05459)  [[pdf]](https://yuanchun-li.github.io/static/files/personal_llm_agents.pdf)  [[cite]](#citation)
+
+### 📣📣📣 News
+
+> 2026.06 -- We introduce AOHP, an OS-level agent harness project, to push forward the R&D of personal agents. Code open-sourced at [https://github.com/aohp-os/aohp](https://github.com/aohp-os/aohp)
 
 **Personal LLM Agents** are defined as a special type of LLM-based agents that are deeply integrated with personal data, personal devices, and personal services.
 They are perferably deployed to resource-constrained mobile/edge devices and/or powered by lightweight AI models.
