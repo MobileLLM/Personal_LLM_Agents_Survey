@@ -313,6 +313,7 @@ Security & Privacy of AI/ML is a huge area with lots of related papers. Here we 
 - On the adversarial robustness of multi-modal foundation models. [arXiv, 2023] [[paper](https://arxiv.org/pdf/2308.10741.pdf)]
 - Misusing Tools in Large Language Models With Visual Adversarial Examples. [arXiv, 2023] [[paper](https://arxiv.org/pdf/2310.03185.pdf)]
 - Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models. [arXiv, 2023] [[paper](https://arxiv.org/pdf/2307.14539.pdf)]
+- Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models. [arXiv, 2025] [[paper](https://arxiv.org/abs/2501.18280)]
 
 **Backdoor Attacks**
 
@@ -364,6 +365,7 @@ Security & Privacy of AI/ML is a huge area with lots of related papers. Here we 
 Summarization. [EMNLP, 2023] [[paper](https://aclanthology.org/2022.emnlp-main.399.pdf)]
 - Overthinking the Truth: Understanding how Language Models Process False Demonstrations. [arXiv, 2023] [[paper](https://arxiv.org/abs/2307.09476.pdf)]
 - Inference-Time Intervention: Eliciting Truthful Answers from a Language Model. [NeurIPS, 2023] [[paper](https://arxiv.org/abs/2306.03341.pdf)]
+- DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness. [arXiv, 2026] [[paper](https://arxiv.org/abs/2601.14210)]
 
 # Acknowledgment
 
