@@ -313,7 +313,7 @@ Security & Privacy of AI/ML is a huge area with lots of related papers. Here we 
 - On the adversarial robustness of multi-modal foundation models. [arXiv, 2023] [[paper](https://arxiv.org/pdf/2308.10741.pdf)]
 - Misusing Tools in Large Language Models With Visual Adversarial Examples. [arXiv, 2023] [[paper](https://arxiv.org/pdf/2310.03185.pdf)]
 - Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models. [arXiv, 2023] [[paper](https://arxiv.org/pdf/2307.14539.pdf)]
-- Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models. [arXiv, 2025] [[paper](https://arxiv.org/abs/2501.18280)]
+- Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models. [arXiv, 2025] [[paper](https://arxiv.org/pdf/2501.18280.pdf)]
 
 **Backdoor Attacks**
 
