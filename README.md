@@ -119,6 +119,7 @@ Traditional Approaches
 - ScreenAgent: A Vision Language Model-driven Computer Control Agent [[paper](https://arxiv.org/abs/2402.07945)][[code](https://github.com/niuzaisheng/ScreenAgent)]
 - AgentStudio: A Toolkit for Building General Virtual Agents [[paper](https://arxiv.org/abs/2403.17918)][[code](https://github.com/SkyworkAI/agent-studio)]
 - OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments [[paper](https://arxiv.org/abs/2404.07972)][[code](https://github.com/xlang-ai/OSWorld)]
+- ClawBench: Can AI Agents Complete Everyday Online Tasks? [[paper](https://arxiv.org/abs/2604.08523)][[code](https://github.com/TIGER-AI-Lab/ClawBench)]
 
 
 ### Sensing
