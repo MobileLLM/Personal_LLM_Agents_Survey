@@ -301,6 +301,7 @@ Security & Privacy of AI/ML is a huge area with lots of related papers. Here we 
 - TextFusion: Privacy-Preserving Pre-trained Model Inference via Token Fusion [EMNLP, 2022] [[paper](https://aclanthology.org/2022.emnlp-main.572.pdf)][[code](https://github.com/xzhou20/TextFusion)]
 - TextObfuscator: Making Pre-trained Language Model a Privacy Protector via Obfuscating Word Representations. [ACL, 2023] [[paper](https://aclanthology.org/2023.findings-acl.337.pdf)][[code](https://github.com/xzhou20/TextObfuscator)]
 - Adversarial Training for Large Neural Language Models. [arXiv, 2020] [[paper](https://arxiv.org/pdf/2004.08994.pdf)][[code](https://github.com/namisan/mt-dnn)]
+- EC²-Bench (EC2-Bench): Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution. [arXiv, 2026] [[paper](https://arxiv.org/abs/2610.17816)][[code](https://github.com/OpenBMB/EC2-Bench)]
 
 
 ### Integrity (of Agent Behavior)
